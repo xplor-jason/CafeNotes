@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "741746808196",
+    "project_id": "coffeetester-6a788",
+    "storage_bucket": "coffeetester-6a788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741746808196:android:d79664af58854c3298b9d1",
+        "android_client_info": {
+          "package_name": "com.testing.androidcafe22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741746808196-1ft60b8mda22rs23v6lfrs61d3ft68pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1v48qF-B5VgdWqSwpPzR9RoWajYtbaxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741746808196-1ft60b8mda22rs23v6lfrs61d3ft68pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741746808196:android:401d346ad83006fd98b9d1",
+        "android_client_info": {
+          "package_name": "com.testing.testandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741746808196-1ft60b8mda22rs23v6lfrs61d3ft68pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1v48qF-B5VgdWqSwpPzR9RoWajYtbaxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741746808196-1ft60b8mda22rs23v6lfrs61d3ft68pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741746808196:android:09e99a4d4e9ba15498b9d1",
+        "android_client_info": {
+          "package_name": "com.testing.testandroid187"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741746808196-1ft60b8mda22rs23v6lfrs61d3ft68pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1v48qF-B5VgdWqSwpPzR9RoWajYtbaxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741746808196-1ft60b8mda22rs23v6lfrs61d3ft68pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741746808196:android:f0c05d6e06cf074598b9d1",
+        "android_client_info": {
+          "package_name": "xyz.cloudcoffee.atlas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741746808196-1ft60b8mda22rs23v6lfrs61d3ft68pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1v48qF-B5VgdWqSwpPzR9RoWajYtbaxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741746808196-1ft60b8mda22rs23v6lfrs61d3ft68pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
